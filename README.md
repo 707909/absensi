@@ -13,7 +13,11 @@
 - **Attendance Table** – Displays class, NIS, name, date, status, and actions.
 - **Edit & Delete** – Update or remove existing attendance records.
 
-
+## Build with
+- HTML
+- Tailwind CSS
+- PHP
+- MySQL
 
 
 
